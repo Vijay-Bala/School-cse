@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div className="about-section-image-container" style={{ borderRadius: '3vh', overflow: 'hidden', border: 'none', height: '50vh', marginRight: '5vw' }}>
       <iframe width="100%"
-          height="100%" src="https://www.youtube.com/embed/SrGA0u3y-Is?si=isnY1cf_ZtMB_iFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          height="100%" src="https://www.youtube.com/embed/x88M3LOKA6g?si=uGY7-CVQjWGDX1I6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <div className="about-section-text-container" style={{ lineHeight: '1.5' }}>
         {/* <p className="primary-subheading">About</p> */}
