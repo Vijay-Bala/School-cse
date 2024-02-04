@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/School-cse/static/css/main.cf67dd09.css",
-    "main.js": "/School-cse/static/js/main.0e7e64ef.js",
+    "main.js": "/School-cse/static/js/main.b67b4114.js",
     "static/media/cyber.jpg": "/School-cse/static/media/cyber.2134fd27894bd6b3abd4.jpg",
     "static/media/game.jpg": "/School-cse/static/media/game.438736c7e74f0fcd97cc.jpg",
     "static/media/11.png": "/School-cse/static/media/11.d3c4e577165a41f575e8.png",
@@ -40,10 +40,10 @@
     "static/media/patent.jpg": "/School-cse/static/media/patent.dfe020f73eab816fdc20.jpg",
     "index.html": "/School-cse/index.html",
     "main.cf67dd09.css.map": "/School-cse/static/css/main.cf67dd09.css.map",
-    "main.0e7e64ef.js.map": "/School-cse/static/js/main.0e7e64ef.js.map"
+    "main.b67b4114.js.map": "/School-cse/static/js/main.b67b4114.js.map"
   },
   "entrypoints": [
     "static/css/main.cf67dd09.css",
-    "static/js/main.0e7e64ef.js"
+    "static/js/main.b67b4114.js"
   ]
 }
