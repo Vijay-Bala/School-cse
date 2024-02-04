@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/School-cse/static/css/main.b92fcc02.css",
-    "main.js": "/School-cse/static/js/main.4da4c4bc.js",
+    "main.css": "/School-cse/static/css/main.cf67dd09.css",
+    "main.js": "/School-cse/static/js/main.0e7e64ef.js",
     "static/media/cyber.jpg": "/School-cse/static/media/cyber.2134fd27894bd6b3abd4.jpg",
     "static/media/game.jpg": "/School-cse/static/media/game.438736c7e74f0fcd97cc.jpg",
     "static/media/11.png": "/School-cse/static/media/11.d3c4e577165a41f575e8.png",
@@ -39,11 +39,11 @@
     "static/media/about-background.png": "/School-cse/static/media/about-background.0bd38a162b6c5a7da562.png",
     "static/media/patent.jpg": "/School-cse/static/media/patent.dfe020f73eab816fdc20.jpg",
     "index.html": "/School-cse/index.html",
-    "main.b92fcc02.css.map": "/School-cse/static/css/main.b92fcc02.css.map",
-    "main.4da4c4bc.js.map": "/School-cse/static/js/main.4da4c4bc.js.map"
+    "main.cf67dd09.css.map": "/School-cse/static/css/main.cf67dd09.css.map",
+    "main.0e7e64ef.js.map": "/School-cse/static/js/main.0e7e64ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.b92fcc02.css",
-    "static/js/main.4da4c4bc.js"
+    "static/css/main.cf67dd09.css",
+    "static/js/main.0e7e64ef.js"
   ]
 }
